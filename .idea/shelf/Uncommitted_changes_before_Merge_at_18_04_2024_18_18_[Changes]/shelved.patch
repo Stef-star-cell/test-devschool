@@ -1,0 +1,49 @@
+Index: devschool-java-league-2.1/my-work/my-work-4/pom.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/devschool-java-league-2.1/my-work/my-work-4/pom.xml b/devschool-java-league-2.1/my-work/my-work-4/pom.xml
+new file mode 100644
+--- /dev/null	(date 1713453510595)
++++ b/devschool-java-league-2.1/my-work/my-work-4/pom.xml	(date 1713453510595)
+@@ -0,0 +1,20 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project xmlns="http://maven.apache.org/POM/4.0.0"
++         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
++         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
++    <modelVersion>4.0.0</modelVersion>
++    <parent>
++        <groupId>com.ing.hubs</groupId>
++        <artifactId>my-work</artifactId>
++        <version>1.0-SNAPSHOT</version>
++    </parent>
++
++    <artifactId>my-work-4</artifactId>
++
++    <properties>
++        <maven.compiler.source>17</maven.compiler.source>
++        <maven.compiler.target>17</maven.compiler.target>
++        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
++    </properties>
++
++</project>
+\ No newline at end of file
+Index: devschool-java-league-2.1/my-work/pom.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project xmlns=\"http://maven.apache.org/POM/4.0.0\"\r\n         xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"\r\n         xsi:schemaLocation=\"http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd\">\r\n    <modelVersion>4.0.0</modelVersion>\r\n    <parent>\r\n        <groupId>com.ing.hubs</groupId>\r\n        <artifactId>devschool-java-league-2.1</artifactId>\r\n        <version>1.0-SNAPSHOT</version>\r\n    </parent>\r\n\r\n    <artifactId>my-work</artifactId>\r\n    <packaging>pom</packaging>\r\n    <modules>\r\n        <module>my-work-1</module>\r\n        <module>my-work-2</module>\r\n        <module>my-work-3</module>\r\n    </modules>\r\n\r\n    <dependencies>\r\n        <!-- https://mvnrepository.com/artifact/org.projectlombok/lombok -->\r\n        <dependency>\r\n            <groupId>org.projectlombok</groupId>\r\n            <artifactId>lombok</artifactId>\r\n            <version>1.18.32</version>\r\n            <scope>provided</scope>\r\n        </dependency>\r\n\r\n    </dependencies>\r\n    <properties>\r\n        <maven.compiler.source>17</maven.compiler.source>\r\n        <maven.compiler.target>17</maven.compiler.target>\r\n        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>\r\n    </properties>\r\n\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/devschool-java-league-2.1/my-work/pom.xml b/devschool-java-league-2.1/my-work/pom.xml
+--- a/devschool-java-league-2.1/my-work/pom.xml	(revision f3b63940e95d4240b7f83a0dbc3762a67a0b4f3e)
++++ b/devschool-java-league-2.1/my-work/pom.xml	(date 1713453510597)
+@@ -15,6 +15,7 @@
+         <module>my-work-1</module>
+         <module>my-work-2</module>
+         <module>my-work-3</module>
++        <module>my-work-4</module>
+     </modules>
+ 
+     <dependencies>

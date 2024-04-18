@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1ce4aa2b-70a7-4afe-b43f-07debe3b509f" name="Changes" comment="Added my-work-3">
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-4/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-4/src/main/java/com/ing/hubs/Tasks/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-4/src/main/java/com/ing/hubs/Tasks/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-4/src/test/java/TestClassAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-4/src/test/java/TestClassBank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/devschool-java-league-2.1" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/devschool-java-league-2.1" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2erwFlJ5vZwjnZ8EneYtl47bdRs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Stefania-Moraru",
+    "jdk.selected.JAVA_MODULE": "jbr-17",
+    "last_opened_file_path": "C:/Users/Stefania Moraru/Desktop/ing devschool/devschool-java-league-2.1/my-work/my-work-4/src/main/java/com/ing/hubs",
+    "onboarding.tips.debug.path": "C:/Users/Stefania Moraru/Desktop/ing devschool/devschool-java-league-2.1/my-work/my-work-1/src/main/java/com/ing/hubs/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Stefania Moraru\Desktop\ing devschool\devschool-java-league-2.1\my-work\my-work-4\src\main\java\com\ing\hubs" />
+      <recent name="C:\Users\Stefania Moraru\Desktop\ing devschool\devschool-java-league-2.1\my-work\my-work-3\src\main\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ing.hubs" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestClassAccount.testDepositNegativeAmount">
+    <configuration name="TestClassAccount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="my-work-4" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestClassAccount" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestClassAccount.testCreationAccount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="my-work-4" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestClassAccount" />
+      <option name="METHOD_NAME" value="testCreationAccount" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestClassAccount.testDepositNegativeAmount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="my-work-4" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestClassAccount" />
+      <option name="METHOD_NAME" value="testDepositNegativeAmount" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestClassAccount.testWithdrawMaxAgeTax" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="my-work-4" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestClassAccount" />
+      <option name="METHOD_NAME" value="testWithdrawMaxAgeTax" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestClassAccount.testWithdrawMinAgeTax" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="my-work-4" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestClassAccount" />
+      <option name="METHOD_NAME" value="testWithdrawMinAgeTax" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestClassAccount.testDepositNegativeAmount" />
+        <item itemvalue="JUnit.TestClassAccount" />
+        <item itemvalue="JUnit.TestClassAccount.testCreationAccount" />
+        <item itemvalue="JUnit.TestClassAccount.testWithdrawMinAgeTax" />
+        <item itemvalue="JUnit.TestClassAccount.testWithdrawMaxAgeTax" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ce4aa2b-70a7-4afe-b43f-07debe3b509f" name="Changes" comment="" />
+      <created>1712675904579</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712675904579</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Added my-work-1">
+      <option name="closed" value="true" />
+      <created>1712681604760</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712681604760</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added my-work-2">
+      <option name="closed" value="true" />
+      <created>1712854618508</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712854618509</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added my-work-3">
+      <option name="closed" value="true" />
+      <created>1713284344012</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713284344012</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added my-work-3">
+      <option name="closed" value="true" />
+      <created>1713286334545</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1713286334545</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added my-work-3">
+      <option name="closed" value="true" />
+      <created>1713286350204</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1713286350204</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added my-work-1" />
+    <MESSAGE value="Added my-work-2" />
+    <MESSAGE value="Added my-work-3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added my-work-3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ing_devschool$TestClass_Ceva.ic" NAME="TestClass.Ceva Coverage Results" MODIFIED="1713455049566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/ing_devschool$TestClassAccount_testCreationAccount.ic" NAME="TestClassAccount.testCreationAccount Coverage Results" MODIFIED="1713458837554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/ing_devschool$TestClass_testCreationAccount.ic" NAME="TestClass.testCreationAccount Coverage Results" MODIFIED="1713457627202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/ing_devschool$TestClass.ic" NAME="TestClass Coverage Results" MODIFIED="1713457483123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/ing_devschool$TestClassBank_testTransfer.ic" NAME="TestClassBank.testTransfer Coverage Results" MODIFIED="1713458372870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/ing_devschool$TestClassAccount.ic" NAME="TestClassAccount Coverage Results" MODIFIED="1713459336807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/ing_devschool$TestClassBank.ic" NAME="TestClassBank Coverage Results" MODIFIED="1713458669284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/ing_devschool$TestClassBank_testAddAccount.ic" NAME="TestClassBank.testAddAccount Coverage Results" MODIFIED="1713457987856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
