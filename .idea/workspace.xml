@@ -4,13 +4,49 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ce4aa2b-70a7-4afe-b43f-07debe3b509f" name="Changes" comment="Added my-work-3">
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-4/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-4/src/main/java/com/ing/hubs/Tasks/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-4/src/main/java/com/ing/hubs/Tasks/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-4/src/test/java/TestClassAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-4/src/test/java/TestClassBank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/pom.xml" afterDir="false" />
+    <list default="true" id="1ce4aa2b-70a7-4afe-b43f-07debe3b509f" name="Changes" comment="Added my-work-4 - testing">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-3/src/main/java/com/ing/hubs/homework/cleancode/atm/ATM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-3/src/main/java/com/ing/hubs/homework/cleancode/atm/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-3/src/main/java/com/ing/hubs/homework/cleancode/atm/BankDatabase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-3/src/main/java/com/ing/hubs/homework/cleancode/atm/CashDispenser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-3/src/main/java/com/ing/hubs/homework/cleancode/atm/IO/Keypad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-3/src/main/java/com/ing/hubs/homework/cleancode/atm/IO/Screen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-3/src/main/java/com/ing/hubs/homework/cleancode/atm/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-3/src/main/java/com/ing/hubs/homework/cleancode/atm/exception/CashDispenserException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-3/src/main/java/com/ing/hubs/homework/cleancode/atm/exception/TransactionException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-3/src/main/java/com/ing/hubs/homework/cleancode/atm/transaction/Deposit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-3/src/main/java/com/ing/hubs/homework/cleancode/atm/transaction/Transaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-3/src/main/java/com/ing/hubs/homework/cleancode/atm/transaction/Withdraw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-3/src/main/resources/cashdispenser.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-3/src/main/resources/database.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-4/src/homework/java/TestATM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-4/src/homework/java/TestAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-4/src/homework/java/TestCashDispenser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-4/src/homework/java/TestDeposit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-4/src/homework/java/TestKeypad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-4/src/homework/java/TestWithdraw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-4/src/main/java/com/ing/hubs/atm/ATM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-4/src/main/java/com/ing/hubs/atm/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-4/src/main/java/com/ing/hubs/atm/BankDatabase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-4/src/main/java/com/ing/hubs/atm/CashDispenser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-4/src/main/java/com/ing/hubs/atm/Keypad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-4/src/main/java/com/ing/hubs/atm/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-4/src/main/java/com/ing/hubs/atm/Screen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-4/src/main/java/com/ing/hubs/atm/exception/TransactionException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-4/src/main/java/com/ing/hubs/atm/transaction/Deposit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-4/src/main/java/com/ing/hubs/atm/transaction/Transaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-4/src/main/java/com/ing/hubs/atm/transaction/Withdraw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-4/src/main/resources/cashdispenser.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-4/src/main/resources/database.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-work-4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/courses/course-3/src/main/java/com/ing/hubs/atm/Keypad.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/courses/course-3/src/main/java/com/ing/hubs/atm/Keypad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/courses/course-3/src/main/java/com/ing/hubs/cleancode/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/courses/course-3/src/main/java/com/ing/hubs/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/courses/course-3/src/main/java/com/ing/hubs/cleancode/TaskManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/courses/course-3/src/main/java/com/ing/hubs/TaskManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-3/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-3/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-3/src/main/java/com/ing/hubs/cleancode/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-3/src/main/java/com/ing/hubs/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-3/src/main/java/com/ing/hubs/cleancode/TaskManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-3/src/main/java/com/ing/hubs/TaskManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,74 +84,86 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Stefania-Moraru",
-    "jdk.selected.JAVA_MODULE": "jbr-17",
-    "last_opened_file_path": "C:/Users/Stefania Moraru/Desktop/ing devschool/devschool-java-league-2.1/my-work/my-work-4/src/main/java/com/ing/hubs",
-    "onboarding.tips.debug.path": "C:/Users/Stefania Moraru/Desktop/ing devschool/devschool-java-league-2.1/my-work/my-work-1/src/main/java/com/ing/hubs/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Stefania-Moraru&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;jbr-17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Stefania Moraru/Desktop/ing devschool/devschool-java-league-2.1/my-work/my-work-3/src/main/resources&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Stefania Moraru/Desktop/ing devschool/devschool-java-league-2.1/my-work/my-work-1/src/main/java/com/ing/hubs/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Stefania Moraru\Desktop\ing devschool\devschool-java-league-2.1\my-work\my-work-4\src\main\java\com\ing\hubs" />
+      <recent name="C:\Users\Stefania Moraru\Desktop\ing devschool\devschool-java-league-2.1\my-work\my-work-3\src\main\resources" />
+      <recent name="C:\Users\Stefania Moraru\Desktop\ing devschool\devschool-java-league-2.1\my-work\my-work-3\src\main\java\com\ing\hubs\homework\cleancode\atm" />
+      <recent name="C:\Users\Stefania Moraru\Desktop\ing devschool\devschool-java-league-2.1\my-work\my-work-3\src\main\java\com\ing\hubs\homework\cleancode" />
+      <recent name="C:\Users\Stefania Moraru\Desktop\ing devschool\devschool-java-league-2.1\my-work\my-work-3\src\main\java\com\ing\hubs" />
+      <recent name="C:\Users\Stefania Moraru\Desktop\ing devschool\devschool-java-league-2.1\my-work\my-work-3\src\homework\atm - clean code" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Stefania Moraru\Desktop\ing devschool\devschool-java-league-2.1\my-work\my-work-3\src\main\java" />
+      <recent name="C:\Users\Stefania Moraru\Desktop\ing devschool\devschool-java-league-2.1\my-work\my-work-3\src\main" />
+      <recent name="C:\Users\Stefania Moraru\Desktop\ing devschool\devschool-java-league-2.1\my-work\my-work-3\src" />
+      <recent name="C:\Users\Stefania Moraru\Desktop\ing devschool\devschool-java-league-2.1\my-work\my-work-4\src\main\resources" />
+      <recent name="C:\Users\Stefania Moraru\Desktop\ing devschool\devschool-java-league-2.1\my-work\my-work-4\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
       <recent name="com.ing.hubs" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TestClassAccount.testDepositNegativeAmount">
-    <configuration name="TestClassAccount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.TestATM.testActionInvalid">
+    <configuration name="TestATM" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="my-work-4" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestClassAccount" />
+      <option name="MAIN_CLASS_NAME" value="TestATM" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestClassAccount.testCreationAccount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestATM.testActionInvalid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="my-work-4" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestClassAccount" />
-      <option name="METHOD_NAME" value="testCreationAccount" />
+      <option name="MAIN_CLASS_NAME" value="TestATM" />
+      <option name="METHOD_NAME" value="testActionInvalid" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestClassAccount.testDepositNegativeAmount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestATM.testDeposit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="my-work-4" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestClassAccount" />
-      <option name="METHOD_NAME" value="testDepositNegativeAmount" />
+      <option name="MAIN_CLASS_NAME" value="TestATM" />
+      <option name="METHOD_NAME" value="testDeposit" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestClassAccount.testWithdrawMaxAgeTax" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestATM.testInvalidAction" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="my-work-4" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestClassAccount" />
-      <option name="METHOD_NAME" value="testWithdrawMaxAgeTax" />
+      <option name="MAIN_CLASS_NAME" value="TestATM" />
+      <option name="METHOD_NAME" value="testInvalidAction" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestClassAccount.testWithdrawMinAgeTax" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestATM.testSuccessfulLogin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="my-work-4" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestClassAccount" />
-      <option name="METHOD_NAME" value="testWithdrawMinAgeTax" />
+      <option name="MAIN_CLASS_NAME" value="TestATM" />
+      <option name="METHOD_NAME" value="testSuccessfulLogin" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -123,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TestClassAccount.testDepositNegativeAmount" />
-        <item itemvalue="JUnit.TestClassAccount" />
-        <item itemvalue="JUnit.TestClassAccount.testCreationAccount" />
-        <item itemvalue="JUnit.TestClassAccount.testWithdrawMinAgeTax" />
-        <item itemvalue="JUnit.TestClassAccount.testWithdrawMaxAgeTax" />
+        <item itemvalue="JUnit.TestATM.testActionInvalid" />
+        <item itemvalue="JUnit.TestATM.testDeposit" />
+        <item itemvalue="JUnit.TestATM.testSuccessfulLogin" />
+        <item itemvalue="JUnit.TestATM" />
+        <item itemvalue="JUnit.TestATM.testInvalidAction" />
       </list>
     </recent_temporary>
   </component>
@@ -180,7 +228,23 @@
       <option name="project" value="LOCAL" />
       <updated>1713286350204</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added my-work-4 - testing">
+      <option name="closed" value="true" />
+      <created>1713459669367</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1713459669367</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added my-work-4 - testing">
+      <option name="closed" value="true" />
+      <created>1713459737709</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1713459737709</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -198,20 +262,34 @@
     <MESSAGE value="Added my-work-1" />
     <MESSAGE value="Added my-work-2" />
     <MESSAGE value="Added my-work-3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added my-work-3" />
+    <MESSAGE value="Added my-work-4 - testing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added my-work-4 - testing" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
     <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ing_devschool$MainTest.ic" NAME="MainTest Coverage Results" MODIFIED="1713790970607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>example.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/ing_devschool$TestCashDispenser_testLoadDatabase.ic" NAME="TestCashDispenser.testLoadDatabase Coverage Results" MODIFIED="1713819748317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/ing_devschool$TestWithdraw.ic" NAME="TestWithdraw Coverage Results" MODIFIED="1713825753661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/ing_devschool$TestClass_Ceva.ic" NAME="TestClass.Ceva Coverage Results" MODIFIED="1713455049566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/ing_devschool$TestClassAccount_testCreationAccount.ic" NAME="TestClassAccount.testCreationAccount Coverage Results" MODIFIED="1713458837554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/ing_devschool$TestATM.ic" NAME="TestATM Coverage Results" MODIFIED="1713847682328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/ing_devschool$MainTest_testInvalidSalaryIncrease.ic" NAME="MainTest.testInvalidSalaryIncrease Coverage Results" MODIFIED="1713790951609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>example.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/ing_devschool$TestClassBank_testAddAccount.ic" NAME="TestClassBank.testAddAccount Coverage Results" MODIFIED="1713457987856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/ing_devschool$TestCashDispenser.ic" NAME="TestCashDispenser Coverage Results" MODIFIED="1713817641659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/ing_devschool$TestAccount.ic" NAME="TestAccount Coverage Results" MODIFIED="1713821097506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/ing_devschool$TestClassAccount_testCreationAccount.ic" NAME="TestClassAccount.testCreationAccount Coverage Results" MODIFIED="1713791075467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/ing_devschool$TestClass_testCreationAccount.ic" NAME="TestClass.testCreationAccount Coverage Results" MODIFIED="1713457627202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/ing_devschool$TestClass.ic" NAME="TestClass Coverage Results" MODIFIED="1713457483123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/ing_devschool$TestClassBank_testTransfer.ic" NAME="TestClassBank.testTransfer Coverage Results" MODIFIED="1713458372870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/ing_devschool$TestClassAccount.ic" NAME="TestClassAccount Coverage Results" MODIFIED="1713459336807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/ing_devschool$TestClassAccount.ic" NAME="TestClassAccount Coverage Results" MODIFIED="1713791213464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/ing_devschool$TestCashDispenser_testDispenseFunds.ic" NAME="TestCashDispenser.testDispenseFunds Coverage Results" MODIFIED="1713817674633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/ing_devschool$TestClassBank.ic" NAME="TestClassBank Coverage Results" MODIFIED="1713458669284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/ing_devschool$TestClassBank_testAddAccount.ic" NAME="TestClassBank.testAddAccount Coverage Results" MODIFIED="1713457987856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/ing_devschool$TestKeypad.ic" NAME="TestKeypad Coverage Results" MODIFIED="1713825730710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
