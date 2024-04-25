@@ -4,49 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ce4aa2b-70a7-4afe-b43f-07debe3b509f" name="Changes" comment="Added my-work-4 - testing">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-3/src/main/java/com/ing/hubs/homework/cleancode/atm/ATM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-3/src/main/java/com/ing/hubs/homework/cleancode/atm/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-3/src/main/java/com/ing/hubs/homework/cleancode/atm/BankDatabase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-3/src/main/java/com/ing/hubs/homework/cleancode/atm/CashDispenser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-3/src/main/java/com/ing/hubs/homework/cleancode/atm/IO/Keypad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-3/src/main/java/com/ing/hubs/homework/cleancode/atm/IO/Screen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-3/src/main/java/com/ing/hubs/homework/cleancode/atm/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-3/src/main/java/com/ing/hubs/homework/cleancode/atm/exception/CashDispenserException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-3/src/main/java/com/ing/hubs/homework/cleancode/atm/exception/TransactionException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-3/src/main/java/com/ing/hubs/homework/cleancode/atm/transaction/Deposit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-3/src/main/java/com/ing/hubs/homework/cleancode/atm/transaction/Transaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-3/src/main/java/com/ing/hubs/homework/cleancode/atm/transaction/Withdraw.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-3/src/main/resources/cashdispenser.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-3/src/main/resources/database.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-4/src/homework/java/TestATM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-4/src/homework/java/TestAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-4/src/homework/java/TestCashDispenser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-4/src/homework/java/TestDeposit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-4/src/homework/java/TestKeypad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-4/src/homework/java/TestWithdraw.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-4/src/main/java/com/ing/hubs/atm/ATM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-4/src/main/java/com/ing/hubs/atm/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-4/src/main/java/com/ing/hubs/atm/BankDatabase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-4/src/main/java/com/ing/hubs/atm/CashDispenser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-4/src/main/java/com/ing/hubs/atm/Keypad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-4/src/main/java/com/ing/hubs/atm/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-4/src/main/java/com/ing/hubs/atm/Screen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-4/src/main/java/com/ing/hubs/atm/exception/TransactionException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-4/src/main/java/com/ing/hubs/atm/transaction/Deposit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-4/src/main/java/com/ing/hubs/atm/transaction/Transaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-4/src/main/java/com/ing/hubs/atm/transaction/Withdraw.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-4/src/main/resources/cashdispenser.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-4/src/main/resources/database.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-work-4.iml" afterDir="false" />
+    <list default="true" id="1ce4aa2b-70a7-4afe-b43f-07debe3b509f" name="Changes" comment="Added my-work-3 - clean code and my-work-4 - testing">
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/course5/optional/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/course5/optional/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/course5/optional/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/course5/optional/UserProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/course5/pure_functions/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/course5/pure_functions/LambdaExpressions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/course5/pure_functions/MethodReference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/course5/pure_functions/PureFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/course5/stream/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/course5/stream/EmployeeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/course5/stream/benckmark/PerformanceBenchMark.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/course5/stream/benckmark/PerformanceParallelBenchMark.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/test/java/course5/EmployeeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/test/java/course5/OptionalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/test/java/course5/PureFunctionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/courses/course-3/src/main/java/com/ing/hubs/atm/Keypad.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/courses/course-3/src/main/java/com/ing/hubs/atm/Keypad.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/courses/course-3/src/main/java/com/ing/hubs/cleancode/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/courses/course-3/src/main/java/com/ing/hubs/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/courses/course-3/src/main/java/com/ing/hubs/cleancode/TaskManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/courses/course-3/src/main/java/com/ing/hubs/TaskManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-3/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-3/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-3/src/main/java/com/ing/hubs/cleancode/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-3/src/main/java/com/ing/hubs/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-3/src/main/java/com/ing/hubs/cleancode/TaskManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-3/src/main/java/com/ing/hubs/TaskManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,28 +62,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Stefania-Moraru&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;jbr-17&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Stefania Moraru/Desktop/ing devschool/devschool-java-league-2.1/my-work/my-work-3/src/main/resources&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Stefania Moraru/Desktop/ing devschool/devschool-java-league-2.1/my-work/my-work-1/src/main/java/com/ing/hubs/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "Stefania-Moraru",
+    "jdk.selected.JAVA_MODULE": "jbr-17",
+    "last_opened_file_path": "C:/Users/Stefania Moraru/Desktop/ing devschool/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs",
+    "onboarding.tips.debug.path": "C:/Users/Stefania Moraru/Desktop/ing devschool/devschool-java-league-2.1/my-work/my-work-1/src/main/java/com/ing/hubs/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "advanced.settings"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Stefania Moraru\Desktop\ing devschool\devschool-java-league-2.1\my-work\my-work-5\src\main\java\com\ing\hubs" />
+      <recent name="C:\Users\Stefania Moraru\Desktop\ing devschool\devschool-java-league-2.1\my-work\my-work-5\src\test\java" />
       <recent name="C:\Users\Stefania Moraru\Desktop\ing devschool\devschool-java-league-2.1\my-work\my-work-3\src\main\resources" />
       <recent name="C:\Users\Stefania Moraru\Desktop\ing devschool\devschool-java-league-2.1\my-work\my-work-3\src\main\java\com\ing\hubs\homework\cleancode\atm" />
       <recent name="C:\Users\Stefania Moraru\Desktop\ing devschool\devschool-java-league-2.1\my-work\my-work-3\src\main\java\com\ing\hubs\homework\cleancode" />
-      <recent name="C:\Users\Stefania Moraru\Desktop\ing devschool\devschool-java-league-2.1\my-work\my-work-3\src\main\java\com\ing\hubs" />
-      <recent name="C:\Users\Stefania Moraru\Desktop\ing devschool\devschool-java-league-2.1\my-work\my-work-3\src\homework\atm - clean code" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Stefania Moraru\Desktop\ing devschool\devschool-java-league-2.1\my-work\my-work-3\src\main\java" />
@@ -119,51 +98,81 @@
       <recent name="com.ing.hubs" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TestATM.testActionInvalid">
-    <configuration name="TestATM" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="my-work-4" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestATM" />
+  <component name="RunManager" selected="JUnit.EmployeeTest.test2">
+    <configuration name="EmployeeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="my-work-5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="course5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="course5" />
+      <option name="MAIN_CLASS_NAME" value="course5.EmployeeTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestATM.testActionInvalid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="my-work-4" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestATM" />
-      <option name="METHOD_NAME" value="testActionInvalid" />
+    <configuration name="EmployeeTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="my-work-5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="course5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="course5" />
+      <option name="MAIN_CLASS_NAME" value="course5.EmployeeTest" />
+      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestATM.testDeposit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="my-work-4" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestATM" />
-      <option name="METHOD_NAME" value="testDeposit" />
+    <configuration name="EmployeeTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="my-work-5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="course5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="course5" />
+      <option name="MAIN_CLASS_NAME" value="course5.EmployeeTest" />
+      <option name="METHOD_NAME" value="test2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestATM.testInvalidAction" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="my-work-4" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestATM" />
-      <option name="METHOD_NAME" value="testInvalidAction" />
+    <configuration name="OptionalTest.test10" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="my-work-5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="course5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="course5" />
+      <option name="MAIN_CLASS_NAME" value="course5.OptionalTest" />
+      <option name="METHOD_NAME" value="test10" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestATM.testSuccessfulLogin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="my-work-4" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestATM" />
-      <option name="METHOD_NAME" value="testSuccessfulLogin" />
+    <configuration name="OptionalTest.test11" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="my-work-5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="course5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="course5" />
+      <option name="MAIN_CLASS_NAME" value="course5.OptionalTest" />
+      <option name="METHOD_NAME" value="test11" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -171,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TestATM.testActionInvalid" />
-        <item itemvalue="JUnit.TestATM.testDeposit" />
-        <item itemvalue="JUnit.TestATM.testSuccessfulLogin" />
-        <item itemvalue="JUnit.TestATM" />
-        <item itemvalue="JUnit.TestATM.testInvalidAction" />
+        <item itemvalue="JUnit.EmployeeTest.test2" />
+        <item itemvalue="JUnit.EmployeeTest.test1" />
+        <item itemvalue="JUnit.EmployeeTest" />
+        <item itemvalue="JUnit.OptionalTest.test11" />
+        <item itemvalue="JUnit.OptionalTest.test10" />
       </list>
     </recent_temporary>
   </component>
@@ -244,7 +253,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713459737709</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Added my-work-3 - clean code and my-work-4 - testing">
+      <option name="closed" value="true" />
+      <created>1713848797473</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1713848797474</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -263,7 +280,8 @@
     <MESSAGE value="Added my-work-2" />
     <MESSAGE value="Added my-work-3" />
     <MESSAGE value="Added my-work-4 - testing" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added my-work-4 - testing" />
+    <MESSAGE value="Added my-work-3 - clean code and my-work-4 - testing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added my-work-3 - clean code and my-work-4 - testing" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
