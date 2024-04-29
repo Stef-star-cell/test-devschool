@@ -5,24 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ce4aa2b-70a7-4afe-b43f-07debe3b509f" name="Changes" comment="Added my-work-6">
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-6/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-6/src/main/java/com/ing/hubs/Utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-6/src/main/java/com/ing/hubs/encryption/AESWithCBC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-6/src/main/java/com/ing/hubs/encryption/AESWithECB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-6/src/main/java/com/ing/hubs/encryption/RSA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-6/src/main/java/com/ing/hubs/hashing/PasswordService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-6/src/main/java/com/ing/hubs/hashing/SHA256.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-6/src/main/java/com/ing/hubs/primitive/Caesar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-6/src/main/java/com/ing/hubs/signatures/AsymmetricDigitalSignature.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-6/src/main/java/com/ing/hubs/signatures/HMAC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-6/src/test/java/hashing/PasswordServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-6/src/test/java/primitive/CaesarTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Merge_at_18_04_2024_18_18_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Merge_at_18_04_2024_18_18__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/course5/optional/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/optional/Address.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/course5/optional/Country.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/optional/Country.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/course5/optional/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/optional/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/course5/optional/UserProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/optional/UserProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/course5/pure_functions/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/pure_functions/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/course5/pure_functions/LambdaExpressions.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/pure_functions/LambdaExpressions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/course5/pure_functions/MethodReference.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/pure_functions/MethodReference.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/course5/pure_functions/PureFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/pure_functions/PureFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/course5/stream/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/stream/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/course5/stream/EmployeeRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/stream/EmployeeRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/course5/stream/benckmark/PerformanceBenchMark.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/stream/benckmark/PerformanceBenchMark.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/course5/stream/benckmark/PerformanceParallelBenchMark.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/stream/benckmark/PerformanceParallelBenchMark.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/test/java/course5/EmployeeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/test/java/course5/EmployeeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/test/java/course5/OptionalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/test/java/course5/OptionalTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/test/java/course5/PureFunctionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/test/java/course5/PureFunctionTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,55 +94,8 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CaesarTest">
-    <configuration name="CaesarTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="my-work-6" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="primitive.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="primitive" />
-      <option name="MAIN_CLASS_NAME" value="primitive.CaesarTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CaesarTest.shouldDecryptCorrectly" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="my-work-6" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="primitive.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="primitive" />
-      <option name="MAIN_CLASS_NAME" value="primitive.CaesarTest" />
-      <option name="METHOD_NAME" value="shouldDecryptCorrectly" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CaesarTest.shouldDecryptCorrectlyWhenOverLimit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="my-work-6" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="primitive.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="primitive" />
-      <option name="MAIN_CLASS_NAME" value="primitive.CaesarTest" />
-      <option name="METHOD_NAME" value="shouldDecryptCorrectlyWhenOverLimit" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EmployeeTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.EmployeeTest">
+    <configuration name="EmployeeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="my-work-5" />
       <extension name="coverage">
         <pattern>
@@ -154,34 +105,82 @@
       </extension>
       <option name="PACKAGE_NAME" value="course5" />
       <option name="MAIN_CLASS_NAME" value="course5.EmployeeTest" />
-      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeTest.test13" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="my-work-5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="course5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="course5" />
+      <option name="MAIN_CLASS_NAME" value="course5.EmployeeTest" />
+      <option name="METHOD_NAME" value="test13" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PasswordServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="my-work-6" />
+    <configuration name="EmployeeTest.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="my-work-5" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hashing.*" />
+          <option name="PATTERN" value="course5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="hashing" />
-      <option name="MAIN_CLASS_NAME" value="hashing.PasswordServiceTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="course5" />
+      <option name="MAIN_CLASS_NAME" value="course5.EmployeeTest" />
+      <option name="METHOD_NAME" value="test4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeTest.test9" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="my-work-5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="course5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="course5" />
+      <option name="MAIN_CLASS_NAME" value="course5.EmployeeTest" />
+      <option name="METHOD_NAME" value="test9" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeTest.testIncreaseSalary" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="my-work-5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="course5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="course5" />
+      <option name="MAIN_CLASS_NAME" value="course5.EmployeeTest" />
+      <option name="METHOD_NAME" value="testIncreaseSalary" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.CaesarTest" />
-        <item itemvalue="JUnit.PasswordServiceTest" />
-        <item itemvalue="JUnit.CaesarTest.shouldDecryptCorrectlyWhenOverLimit" />
-        <item itemvalue="JUnit.CaesarTest.shouldDecryptCorrectly" />
-        <item itemvalue="JUnit.EmployeeTest.test2" />
+        <item itemvalue="JUnit.EmployeeTest" />
+        <item itemvalue="JUnit.EmployeeTest.testIncreaseSalary" />
+        <item itemvalue="JUnit.EmployeeTest.test9" />
+        <item itemvalue="JUnit.EmployeeTest.test4" />
+        <item itemvalue="JUnit.EmployeeTest.test13" />
       </list>
     </recent_temporary>
   </component>
@@ -274,7 +273,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714394702451</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Added my-work-6">
+      <option name="closed" value="true" />
+      <created>1714394901029</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1714394901029</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -315,6 +322,9 @@
     </SUITE>
     <SUITE FILE_PATH="coverage/ing_devschool$TestClassBank_testAddAccount.ic" NAME="TestClassBank.testAddAccount Coverage Results" MODIFIED="1713457987856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/ing_devschool$TestCashDispenser.ic" NAME="TestCashDispenser Coverage Results" MODIFIED="1713817641659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/ing_devschool$EmployeeTest.ic" NAME="EmployeeTest Coverage Results" MODIFIED="1714401937687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>course5.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/ing_devschool$TestAccount.ic" NAME="TestAccount Coverage Results" MODIFIED="1713821097506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/ing_devschool$TestClassAccount_testCreationAccount.ic" NAME="TestClassAccount.testCreationAccount Coverage Results" MODIFIED="1713791075467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/ing_devschool$TestClass_testCreationAccount.ic" NAME="TestClass.testCreationAccount Coverage Results" MODIFIED="1713457627202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
