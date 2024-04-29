@@ -11,12 +11,14 @@
         <module name="my-work-3" />
         <module name="my-work-4" />
         <module name="my-work-5" />
+        <module name="my-work-6" />
         <module name="course-5" />
         <module name="course-4" />
         <module name="course-3" />
         <module name="my-work-1" />
         <module name="course-2" />
         <module name="my-work-2" />
+        <module name="course-6" />
       </profile>
     </annotationProcessing>
   </component>

@@ -4,25 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ce4aa2b-70a7-4afe-b43f-07debe3b509f" name="Changes" comment="Added my-work-3 - clean code and my-work-4 - testing">
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/course5/optional/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/course5/optional/Country.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/course5/optional/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/course5/optional/UserProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/course5/pure_functions/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/course5/pure_functions/LambdaExpressions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/course5/pure_functions/MethodReference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/course5/pure_functions/PureFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/course5/stream/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/course5/stream/EmployeeRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/course5/stream/benckmark/PerformanceBenchMark.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/course5/stream/benckmark/PerformanceParallelBenchMark.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/test/java/course5/EmployeeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/test/java/course5/OptionalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/test/java/course5/PureFunctionTest.java" afterDir="false" />
+    <list default="true" id="1ce4aa2b-70a7-4afe-b43f-07debe3b509f" name="Changes" comment="Added my-work-6">
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-6/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-6/src/main/java/com/ing/hubs/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-6/src/main/java/com/ing/hubs/encryption/AESWithCBC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-6/src/main/java/com/ing/hubs/encryption/AESWithECB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-6/src/main/java/com/ing/hubs/encryption/RSA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-6/src/main/java/com/ing/hubs/hashing/PasswordService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-6/src/main/java/com/ing/hubs/hashing/SHA256.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-6/src/main/java/com/ing/hubs/primitive/Caesar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-6/src/main/java/com/ing/hubs/signatures/AsymmetricDigitalSignature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-6/src/main/java/com/ing/hubs/signatures/HMAC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-6/src/test/java/hashing/PasswordServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-6/src/test/java/primitive/CaesarTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Merge_at_18_04_2024_18_18_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Merge_at_18_04_2024_18_18__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/pom.xml" afterDir="false" />
     </list>
@@ -69,7 +67,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "Stefania-Moraru",
     "jdk.selected.JAVA_MODULE": "jbr-17",
-    "last_opened_file_path": "C:/Users/Stefania Moraru/Desktop/ing devschool/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs",
+    "last_opened_file_path": "C:/Users/Stefania Moraru/Desktop/ing devschool/devschool-java-league-2.1/my-work/my-work-6/src/main/java/com/ing/hubs",
     "onboarding.tips.debug.path": "C:/Users/Stefania Moraru/Desktop/ing devschool/devschool-java-league-2.1/my-work/my-work-1/src/main/java/com/ing/hubs/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
@@ -80,11 +78,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Stefania Moraru\Desktop\ing devschool\devschool-java-league-2.1\my-work\my-work-6\src\main\java\com\ing\hubs" />
+      <recent name="C:\Users\Stefania Moraru\Desktop\ing devschool\devschool-java-league-2.1\my-work\my-work-6\src\test\java" />
       <recent name="C:\Users\Stefania Moraru\Desktop\ing devschool\devschool-java-league-2.1\my-work\my-work-5\src\main\java\com\ing\hubs" />
       <recent name="C:\Users\Stefania Moraru\Desktop\ing devschool\devschool-java-league-2.1\my-work\my-work-5\src\test\java" />
       <recent name="C:\Users\Stefania Moraru\Desktop\ing devschool\devschool-java-league-2.1\my-work\my-work-3\src\main\resources" />
-      <recent name="C:\Users\Stefania Moraru\Desktop\ing devschool\devschool-java-league-2.1\my-work\my-work-3\src\main\java\com\ing\hubs\homework\cleancode\atm" />
-      <recent name="C:\Users\Stefania Moraru\Desktop\ing devschool\devschool-java-league-2.1\my-work\my-work-3\src\main\java\com\ing\hubs\homework\cleancode" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Stefania Moraru\Desktop\ing devschool\devschool-java-league-2.1\my-work\my-work-3\src\main\java" />
@@ -94,37 +92,53 @@
       <recent name="C:\Users\Stefania Moraru\Desktop\ing devschool\devschool-java-league-2.1\my-work\my-work-4\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="" />
       <recent name="com.ing.hubs" />
+      <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.EmployeeTest.test2">
-    <configuration name="EmployeeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="my-work-5" />
+  <component name="RunManager" selected="JUnit.CaesarTest">
+    <configuration name="CaesarTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="my-work-6" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="course5.*" />
+          <option name="PATTERN" value="primitive.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="course5" />
-      <option name="MAIN_CLASS_NAME" value="course5.EmployeeTest" />
+      <option name="PACKAGE_NAME" value="primitive" />
+      <option name="MAIN_CLASS_NAME" value="primitive.CaesarTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmployeeTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="my-work-5" />
+    <configuration name="CaesarTest.shouldDecryptCorrectly" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="my-work-6" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="course5.*" />
+          <option name="PATTERN" value="primitive.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="course5" />
-      <option name="MAIN_CLASS_NAME" value="course5.EmployeeTest" />
-      <option name="METHOD_NAME" value="test1" />
+      <option name="PACKAGE_NAME" value="primitive" />
+      <option name="MAIN_CLASS_NAME" value="primitive.CaesarTest" />
+      <option name="METHOD_NAME" value="shouldDecryptCorrectly" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CaesarTest.shouldDecryptCorrectlyWhenOverLimit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="my-work-6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="primitive.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="primitive" />
+      <option name="MAIN_CLASS_NAME" value="primitive.CaesarTest" />
+      <option name="METHOD_NAME" value="shouldDecryptCorrectlyWhenOverLimit" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -146,45 +160,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OptionalTest.test10" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="my-work-5" />
+    <configuration name="PasswordServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="my-work-6" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="course5.*" />
+          <option name="PATTERN" value="hashing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="course5" />
-      <option name="MAIN_CLASS_NAME" value="course5.OptionalTest" />
-      <option name="METHOD_NAME" value="test10" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OptionalTest.test11" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="my-work-5" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="course5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="course5" />
-      <option name="MAIN_CLASS_NAME" value="course5.OptionalTest" />
-      <option name="METHOD_NAME" value="test11" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="hashing" />
+      <option name="MAIN_CLASS_NAME" value="hashing.PasswordServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CaesarTest" />
+        <item itemvalue="JUnit.PasswordServiceTest" />
+        <item itemvalue="JUnit.CaesarTest.shouldDecryptCorrectlyWhenOverLimit" />
+        <item itemvalue="JUnit.CaesarTest.shouldDecryptCorrectly" />
         <item itemvalue="JUnit.EmployeeTest.test2" />
-        <item itemvalue="JUnit.EmployeeTest.test1" />
-        <item itemvalue="JUnit.EmployeeTest" />
-        <item itemvalue="JUnit.OptionalTest.test11" />
-        <item itemvalue="JUnit.OptionalTest.test10" />
       </list>
     </recent_temporary>
   </component>
@@ -261,7 +258,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713848797474</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Added my-work-5">
+      <option name="closed" value="true" />
+      <created>1714057358441</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1714057358441</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -281,7 +286,9 @@
     <MESSAGE value="Added my-work-3" />
     <MESSAGE value="Added my-work-4 - testing" />
     <MESSAGE value="Added my-work-3 - clean code and my-work-4 - testing" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added my-work-3 - clean code and my-work-4 - testing" />
+    <MESSAGE value="Added my-work-5" />
+    <MESSAGE value="Added my-work-6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added my-work-6" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
