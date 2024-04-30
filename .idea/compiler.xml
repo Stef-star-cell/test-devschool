@@ -7,19 +7,24 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="course-5" />
+        <module name="course-4" />
+        <module name="course-3" />
+        <module name="course-2" />
+        <module name="course-6" />
         <module name="course-1" />
         <module name="my-work-3" />
         <module name="my-work-4" />
         <module name="my-work-5" />
         <module name="my-work-6" />
-        <module name="course-5" />
-        <module name="course-4" />
-        <module name="course-3" />
         <module name="my-work-1" />
-        <module name="course-2" />
+        <module name="my-work-7-springboot" />
         <module name="my-work-2" />
-        <module name="course-6" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="my-work-7-spring (1)" target="17" />
+      <module name="my-work-7-spring (2)" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>
