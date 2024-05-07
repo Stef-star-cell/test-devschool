@@ -4,39 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ce4aa2b-70a7-4afe-b43f-07debe3b509f" name="Changes" comment="Added my-work-7-Spring and my-work-7-SpringBoot">
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/homework/CVDataManagement/CVReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/homework/CVDataManagement/CVStorage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/homework/CVDataManagement/Keyboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/homework/CVDataManagement/UsersCV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/homework/CVElements/CV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/homework/CVElements/EducationSection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/homework/CVElements/Profile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/homework/CVElements/ProjectsSection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/homework/CVElements/WorkExperienceSection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/homework/IO/Keypad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/homework/IO/Screen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/homework/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/homework/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/resources/database.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/resources/output.txt" afterDir="false" />
+    <list default="true" id="1ce4aa2b-70a7-4afe-b43f-07debe3b509f" name="Changes" comment="Added homework-CV">
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/homework/IO/CVSections.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/optional/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/course5/optional/Address.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/optional/Country.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/course5/optional/Country.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/optional/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/course5/optional/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/optional/UserProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/course5/optional/UserProvider.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/pure_functions/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/course5/pure_functions/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/pure_functions/LambdaExpressions.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/course5/pure_functions/LambdaExpressions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/pure_functions/MethodReference.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/course5/pure_functions/MethodReference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/pure_functions/PureFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/course5/pure_functions/PureFunction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/stream/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/course5/stream/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/stream/EmployeeRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/course5/stream/EmployeeRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/stream/benckmark/PerformanceBenchMark.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/course5/stream/benckmark/PerformanceBenchMark.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/stream/benckmark/PerformanceParallelBenchMark.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/course5/stream/benckmark/PerformanceParallelBenchMark.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/test/java/course5/EmployeeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/test/java/course5/EmployeeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/test/java/course5/OptionalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/test/java/course5/OptionalTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/test/java/course5/PureFunctionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/test/java/course5/PureFunctionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/homework/CVDataManagement/CVReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/homework/CVDataManagement/CVReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/homework/CVDataManagement/CVStorage.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/homework/CVDataManagement/CVStorage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/homework/CVElements/EducationSection.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/homework/CVElements/EducationSection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/homework/CVElements/ProjectsSection.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/homework/CVElements/ProjectsSection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/homework/CVElements/WorkExperienceSection.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/homework/CVElements/WorkExperienceSection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/homework/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/homework/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/resources/database.txt" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/resources/database.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,8 +23,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -313,7 +290,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714496174255</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Added homework-CV">
+      <option name="closed" value="true" />
+      <created>1715019491718</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1715019491719</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -336,7 +321,8 @@
     <MESSAGE value="Added my-work-6" />
     <MESSAGE value="Added my-work-5" />
     <MESSAGE value="Added my-work-7-Spring and my-work-7-SpringBoot" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added my-work-7-Spring and my-work-7-SpringBoot" />
+    <MESSAGE value="Added homework-CV" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added homework-CV" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
