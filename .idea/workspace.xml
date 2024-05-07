@@ -4,16 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ce4aa2b-70a7-4afe-b43f-07debe3b509f" name="Changes" comment="Added homework-CV">
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/homework/IO/CVSections.java" afterDir="false" />
+    <list default="true" id="1ce4aa2b-70a7-4afe-b43f-07debe3b509f" name="Changes" comment="Added homework-CV-modif">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/homework/CVDataManagement/CVReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/homework/CVDataManagement/CVReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/homework/CVDataManagement/CVStorage.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/homework/CVDataManagement/CVStorage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/homework/CVElements/EducationSection.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/homework/CVElements/EducationSection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/homework/CVElements/ProjectsSection.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/homework/CVElements/ProjectsSection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/homework/CVElements/WorkExperienceSection.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/homework/CVElements/WorkExperienceSection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/homework/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/java/com/ing/hubs/homework/Menu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/resources/database.txt" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-5/src/main/resources/database.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -298,7 +290,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715019491719</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Added homework-CV-modif">
+      <option name="closed" value="true" />
+      <created>1715050985482</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1715050985482</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -322,7 +322,8 @@
     <MESSAGE value="Added my-work-5" />
     <MESSAGE value="Added my-work-7-Spring and my-work-7-SpringBoot" />
     <MESSAGE value="Added homework-CV" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added homework-CV" />
+    <MESSAGE value="Added homework-CV-modif" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added homework-CV-modif" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
