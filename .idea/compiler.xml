@@ -7,24 +7,38 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="course-7-spring" />
+        <module name="homework" />
         <module name="course-5" />
         <module name="course-4" />
         <module name="course-3" />
         <module name="course-2" />
+        <module name="course-8-jpa" />
         <module name="course-6" />
+        <module name="my-work-8" />
+        <module name="courses-7-springboot" />
         <module name="course-1" />
         <module name="my-work-3" />
         <module name="my-work-4" />
         <module name="my-work-5" />
+        <module name="course-8-jdbc" />
         <module name="my-work-6" />
         <module name="my-work-1" />
         <module name="my-work-7-springboot" />
         <module name="my-work-2" />
+        <module name="my-work-7-spring" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="my-work-7-spring (1)" target="17" />
       <module name="my-work-7-spring (2)" target="17" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="course-8-jdbc" options="-parameters" />
+      <module name="course-8-jpa" options="-parameters" />
+      <module name="my-work-8" options="-parameters" />
+    </option>
   </component>
 </project>

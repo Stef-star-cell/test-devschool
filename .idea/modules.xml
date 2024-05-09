@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/my-work-4.iml" filepath="$PROJECT_DIR$/my-work-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ing devschool.iml" filepath="$PROJECT_DIR$/.idea/ing devschool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-4/my-work-4.iml" filepath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-4/my-work-4.iml" />
     </modules>
   </component>
 </project>
