@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="course-7-spring" />
+        <module name="my-work-10" />
         <module name="homework" />
         <module name="course-5" />
         <module name="course-4" />
@@ -38,6 +39,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="course-8-jdbc" options="-parameters" />
       <module name="course-8-jpa" options="-parameters" />
+      <module name="my-work-10" options="-parameters" />
       <module name="my-work-8" options="-parameters" />
     </option>
   </component>
