@@ -4,49 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ce4aa2b-70a7-4afe-b43f-07debe3b509f" name="Changes" comment="Added finalProject-get and create User requests">
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/dto/enrollmentRequest/EnrollmentRequestCreateDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/dto/enrollmentRequest/EnrollmentRequestDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/repository/EnrollmentRequestRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/resource/EnrollmentRequestResource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/service/EnrollmentRequestService.java" afterDir="false" />
+    <list default="true" id="1ce4aa2b-70a7-4afe-b43f-07debe3b509f" name="Changes" comment="Added finalProject-added get all classes">
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/dto/catalogue/CatalogueDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/exception/classSubject/EnrollmentRequestNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/repository/CatalogueRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/service/CatalogueService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/configuration/ModelMapperConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/configuration/ModelMapperConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/configuration/RestExceptionHandeler.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/configuration/RestExceptionHandeler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/dto/classSubject/ClassCreateDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/dto/classSubject/ClassCreateDto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/dto/classSubject/ClassDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/dto/classSubject/ClassDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/dto/schedule/ScheduleCreateDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/dto/schedule/ScheduleCreateDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/dto/schedule/ScheduleDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/dto/schedule/ScheduleDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/dto/student/StudentDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/dto/student/StudentDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/dto/teacher/TeacherDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/dto/teacher/TeacherDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/dto/user/UserCreateDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/dto/user/UserCreateDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/dto/user/UserDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/dto/user/UserDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/entity/Catalogue.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/entity/Catalogue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/entity/Class.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/entity/Class.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/entity/ClassScheduler.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/entity/ClassScheduler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/entity/EnrollmentRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/entity/EnrollmentRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/entity/Schedule.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/entity/Schedule.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/entity/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/entity/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/entity/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/entity/Teacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/entity/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/exception/StudentNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/exception/student/StudentNotFoundException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/exception/TeacherNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/exception/teacher/TeacherNotFoundException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/exception/UserAlreadyExistsException.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/exception/user/UserAlreadyExistsException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/exception/UserNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/exception/user/UserNotFoundException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/repository/ClassRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/repository/ClassRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/repository/StudentRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/repository/StudentRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/resource/ClassResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/resource/ClassResource.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/resource/StudentResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/resource/StudentResource.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/resource/TeacherResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/resource/TeacherResource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/resource/UserResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/resource/UserResource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/service/ClassSchedulerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/service/ClassSchedulerService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/service/ClassService.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/service/ClassService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/service/ScheduleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/service/ScheduleService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/service/EnrollmentRequestService.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/service/EnrollmentRequestService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/service/StudentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/service/StudentService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/service/TeacherService.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/service/TeacherService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,44 +59,45 @@
   <component name="ProjectId" id="2erwFlJ5vZwjnZ8EneYtl47bdRs" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "JUnit.EmployeeTest.executor": "Run",
-    "Maven.homework [clean,install].executor": "Run",
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Spring Boot.Main.executor": "Run",
-    "git-widget-placeholder": "Stefania-Alex",
-    "jdk.selected.JAVA_MODULE": "jbr-17",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Stefania Moraru/Desktop/ing devschool/devschool-java-league-2.1/my-work/my-work-10/src/main/java/com/ing/hubs/course10/jpa/repository",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/Stefania Moraru/Desktop/ing devschool/devschool-java-league-2.1/my-work/my-work-1/src/main/java/com/ing/hubs/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.EmployeeTest.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.homework [clean,install].executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Spring Boot.Main.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Stefania-Alex&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;jbr-17&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Stefania Moraru/Desktop/ing devschool/devschool-java-league-2.1/my-work/my-work-10/src/main/java/com/ing/hubs/course10/jpa/repository&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Stefania Moraru/Desktop/ing devschool/devschool-java-league-2.1/my-work/my-work-1/src/main/java/com/ing/hubs/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql_aurora_aws",
-      "mysql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql_aurora_aws&quot;,
+      &quot;mysql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.ing.hubs.course10.jpa.service" />
@@ -266,7 +239,10 @@
       <workItem from="1715966611732" duration="6252000" />
       <workItem from="1716023989766" duration="16360000" />
       <workItem from="1716105818837" duration="17079000" />
-      <workItem from="1716135580840" duration="12290000" />
+      <workItem from="1716135580840" duration="12404000" />
+      <workItem from="1716204338889" duration="3499000" />
+      <workItem from="1716217589656" duration="8842000" />
+      <workItem from="1716230217666" duration="3967000" />
     </task>
     <task id="LOCAL-00001" summary="Added my-work-1">
       <option name="closed" value="true" />
@@ -452,7 +428,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716040392818</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Added finalProject-added get all classes">
+      <option name="closed" value="true" />
+      <created>1716147979241</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1716147979242</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -486,7 +470,8 @@
     <MESSAGE value="Added finalProject-all Entitys" />
     <MESSAGE value="Added finalProject-all Entities" />
     <MESSAGE value="Added finalProject-get and create User requests" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added finalProject-get and create User requests" />
+    <MESSAGE value="Added finalProject-added get all classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added finalProject-added get all classes" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
