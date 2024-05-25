@@ -4,17 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ce4aa2b-70a7-4afe-b43f-07debe3b509f" name="Changes" comment="Added finalProject-added catalogue">
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/exception/classSubject/LimitExceededException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/exception/user/PhoneNumberInvalidException.java" afterDir="false" />
+    <list default="true" id="1ce4aa2b-70a7-4afe-b43f-07debe3b509f" name="Changes" comment="Added finalProject-added catalogue get request">
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/service/UserManagementService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-10/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-10/docker-compose.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/repository/CatalogueRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/repository/CatalogueRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/dto/enrollment/EnrollmentUpdateDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/dto/enrollment/EnrollmentUpdateDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/dto/user/UserCreateDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/dto/user/UserCreateDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/entity/enums/UserType.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/entity/enums/UserType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/resource/EnrollmentResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/resource/EnrollmentResource.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/resource/StudentResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/resource/StudentResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/resource/SubjectResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/resource/SubjectResource.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/resource/TeacherResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/resource/TeacherResource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/service/CatalogueService.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/service/CatalogueService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/service/ClassService.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/service/ClassService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/service/EnrollmentRequestService.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/service/EnrollmentRequestService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/resource/UserResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/resource/UserResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/security/JwtAuthorizationFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/security/JwtAuthorizationFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/security/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/security/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/service/EnrollmentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/service/EnrollmentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/service/StudentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/service/StudentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/service/SubjectService.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/service/SubjectService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/service/TeacherService.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/service/TeacherService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-10/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-10/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-10/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-10/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,45 +70,48 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.EmployeeTest.executor&quot;: &quot;Run&quot;,
-    &quot;Maven.homework [clean,install].executor&quot;: &quot;Run&quot;,
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Spring Boot.Main.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Stefania-Alex&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;jbr-17&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Stefania Moraru/Desktop/ing devschool/devschool-java-league-2.1/my-work/my-work-10/src/main/java/com/ing/hubs/course10/jpa/repository&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Stefania Moraru/Desktop/ing devschool/devschool-java-league-2.1/my-work/my-work-1/src/main/java/com/ing/hubs/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "JUnit.EmployeeTest.executor": "Run",
+    "Maven.homework [clean,install].executor": "Run",
+    "Maven.my-work-10 [clean,install].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.Main (1).executor": "Run",
+    "Spring Boot.Main.executor": "Run",
+    "git-widget-placeholder": "Stefania-Alex",
+    "jdk.selected.JAVA_MODULE": "jbr-17",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Stefania Moraru/Desktop/ing devschool/devschool-java-league-2.1/my-work/my-work-10/src/main/java/com/ing/hubs/course10/jpa/repository",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/Stefania Moraru/Desktop/ing devschool/devschool-java-league-2.1/my-work/my-work-1/src/main/java/com/ing/hubs/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;mysql_aurora_aws&quot;,
-      &quot;mysql&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql_aurora_aws",
+      "mysql"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.ing.hubs.course10.jpa.Dto" />
       <recent name="com.ing.hubs.course10.jpa.service" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -118,7 +134,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Spring Boot.Main (1)">
     <configuration name="EmployeeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="my-work-5" />
       <extension name="coverage">
@@ -130,38 +146,6 @@
       <option name="PACKAGE_NAME" value="course5" />
       <option name="MAIN_CLASS_NAME" value="course5.EmployeeTest" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EmployeeTest.test13" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="my-work-5" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="course5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="course5" />
-      <option name="MAIN_CLASS_NAME" value="course5.EmployeeTest" />
-      <option name="METHOD_NAME" value="test13" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EmployeeTest.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="my-work-5" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="course5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="course5" />
-      <option name="MAIN_CLASS_NAME" value="course5.EmployeeTest" />
-      <option name="METHOD_NAME" value="test4" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -198,13 +182,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="homework" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ing.hubs.Main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ing.hubs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="my-work-10" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ing.hubs.course10.jpa.Main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ing.hubs.course10.jpa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.Main (1)" />
+        <item itemvalue="Spring Boot.Main" />
         <item itemvalue="JUnit.EmployeeTest" />
         <item itemvalue="JUnit.EmployeeTest.testIncreaseSalary" />
         <item itemvalue="JUnit.EmployeeTest.test9" />
-        <item itemvalue="JUnit.EmployeeTest.test4" />
-        <item itemvalue="JUnit.EmployeeTest.test13" />
       </list>
     </recent_temporary>
   </component>
@@ -239,7 +249,12 @@
       <workItem from="1716204338889" duration="3499000" />
       <workItem from="1716217589656" duration="8842000" />
       <workItem from="1716230217666" duration="4291000" />
-      <workItem from="1716234976804" duration="10075000" />
+      <workItem from="1716234976804" duration="10153000" />
+      <workItem from="1716300586357" duration="8799000" />
+      <workItem from="1716390889424" duration="10153000" />
+      <workItem from="1716473569606" duration="7739000" />
+      <workItem from="1716625936537" duration="5447000" />
+      <workItem from="1716633153263" duration="17743000" />
     </task>
     <task id="LOCAL-00001" summary="Added my-work-1">
       <option name="closed" value="true" />
@@ -441,7 +456,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716234257410</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Added finalProject-added catalogue get request">
+      <option name="closed" value="true" />
+      <created>1716245163622</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1716245163622</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -477,7 +500,8 @@
     <MESSAGE value="Added finalProject-get and create User requests" />
     <MESSAGE value="Added finalProject-added get all classes" />
     <MESSAGE value="Added finalProject-added catalogue" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added finalProject-added catalogue" />
+    <MESSAGE value="Added finalProject-added catalogue get request" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added finalProject-added catalogue get request" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
