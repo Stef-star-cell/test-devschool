@@ -4,38 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ce4aa2b-70a7-4afe-b43f-07debe3b509f" name="Changes" comment="Added finalProject-added endpoints">
+    <list default="true" id="1ce4aa2b-70a7-4afe-b43f-07debe3b509f" name="Changes" comment="Added finalProject-refactor dto">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/dto/catalogue/CatalogueDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/dto/response/CatalogueDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/dto/catalogue/CatalogueUpdateDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/dto/request/CatalogueUpdateDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/dto/enrollment/EnrollmentCreateDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/dto/request/EnrollmentCreateDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/dto/enrollment/EnrollmentResponseDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/dto/response/EnrollmentResponseDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/dto/enrollment/EnrollmentUpdateDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/dto/request/EnrollmentUpdateDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/dto/schedule/ScheduleCreateDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/dto/request/ScheduleCreateDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/dto/schedule/ScheduleResponseDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/dto/response/ScheduleResponseDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/dto/student/StudentResponseResponseDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/dto/response/StudentResponseResponseDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/dto/subject/SubjectCreateDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/dto/request/SubjectCreateDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/dto/subject/SubjectResponseDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/dto/response/SubjectResponseDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/dto/teacher/TeacherResponseResponseDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/dto/response/TeacherResponseResponseDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/dto/user/UserCreateDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/dto/request/UserCreateDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/dto/user/UserResponseDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/dto/response/UserResponseDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/repository/ScheduleRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/repository/ScheduleRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/repository/ScheduleRepositoryJdbc.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/repository/ScheduleRepositoryJdbc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/configuration/RestExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/configuration/RestExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/dto/request/ScheduleCreateDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/dto/request/ScheduleCreateDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/dto/response/CatalogueDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/dto/response/CatalogueResponseDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/dto/response/StudentResponseResponseDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/dto/response/StudentResponseDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/dto/response/TeacherResponseResponseDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/dto/response/TeacherResponseDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/entity/Catalogue.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/entity/Catalogue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/entity/Schedule.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/entity/Schedule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/repository/CatalogueRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/repository/CatalogueRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/resource/CatalogueResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/resource/CatalogueResource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/resource/EnrollmentResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/resource/EnrollmentResource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/resource/StudentResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/resource/StudentResource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/resource/SubjectResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/resource/SubjectResource.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/resource/TeacherResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/resource/TeacherResource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/resource/UserResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/resource/UserResource.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/service/CatalogueService.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/service/CatalogueService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/service/EnrollmentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/service/EnrollmentService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/service/ScheduleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/service/ScheduleService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/service/StudentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/service/StudentService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/service/SubjectService.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/service/SubjectService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/service/TeacherService.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/service/TeacherService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/service/UserManagementService.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/service/UserManagementService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/service/UserService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -262,7 +245,7 @@
       <workItem from="1716390889424" duration="10153000" />
       <workItem from="1716473569606" duration="7739000" />
       <workItem from="1716625936537" duration="5447000" />
-      <workItem from="1716633153263" duration="26037000" />
+      <workItem from="1716633153263" duration="28595000" />
     </task>
     <task id="LOCAL-00001" summary="Added my-work-1">
       <option name="closed" value="true" />
@@ -488,7 +471,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716662118627</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Added finalProject-refactor dto">
+      <option name="closed" value="true" />
+      <created>1716715933854</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1716715933854</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -527,7 +518,8 @@
     <MESSAGE value="Added finalProject-added catalogue get request" />
     <MESSAGE value="Added finalProject-added security - roles" />
     <MESSAGE value="Added finalProject-added endpoints" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added finalProject-added endpoints" />
+    <MESSAGE value="Added finalProject-refactor dto" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added finalProject-refactor dto" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
