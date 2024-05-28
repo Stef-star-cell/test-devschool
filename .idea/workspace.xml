@@ -4,47 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ce4aa2b-70a7-4afe-b43f-07debe3b509f" name="Changes" comment="Added finalProject-refactor dto2">
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-10/src/main/java/com/ing/hubs/course10/jpa/Dto/request/UserSessionDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-10/src/main/java/com/ing/hubs/course10/jpa/Dto/response/JwtDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-10/src/main/java/com/ing/hubs/course10/jpa/security/JwtAuthorizationFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-10/src/main/java/com/ing/hubs/course10/jpa/security/JwtProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-10/src/main/java/com/ing/hubs/course10/jpa/security/SecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-10/src/main/resources/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-10/src/main/resources/docker-compose.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-2/src/main/resources/cashDispenser.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-2/src/main/resources/filename.txt" afterDir="false" />
+    <list default="true" id="1ce4aa2b-70a7-4afe-b43f-07debe3b509f" name="Changes" comment="Added  my-work-10 - up to date">
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-15.1/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-15.1/alert.rules.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-15.1/alertmanager.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-15.1/docker-compose.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-15.1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-15.1/prometheus.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-15.1/src/main/java/com/ing/hubs/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-15.1/src/main/java/com/ing/hubs/entity/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-15.1/src/main/java/com/ing/hubs/repository/BookRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-15.1/src/main/java/com/ing/hubs/resource/BookResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-15.1/src/main/java/com/ing/hubs/service/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-15.1/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-10/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-10/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-10/src/main/java/com/ing/hubs/course10/jpa/Dto/OrderEntryDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-10/src/main/java/com/ing/hubs/course10/jpa/Dto/request/OrderEntryDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-10/src/main/java/com/ing/hubs/course10/jpa/Dto/OrderRequestDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-10/src/main/java/com/ing/hubs/course10/jpa/Dto/request/OrderRequestDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-10/src/main/java/com/ing/hubs/course10/jpa/Dto/OrderResponseDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-10/src/main/java/com/ing/hubs/course10/jpa/Dto/response/OrderResponseDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-10/src/main/java/com/ing/hubs/course10/jpa/Dto/ProductListResponseDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-10/src/main/java/com/ing/hubs/course10/jpa/Dto/response/ProductListResponseDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-10/src/main/java/com/ing/hubs/course10/jpa/Dto/ProductQuantityDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-10/src/main/java/com/ing/hubs/course10/jpa/Dto/request/ProductQuantityDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-10/src/main/java/com/ing/hubs/course10/jpa/Dto/ProductRequestDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-10/src/main/java/com/ing/hubs/course10/jpa/Dto/request/ProductRequestDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-10/src/main/java/com/ing/hubs/course10/jpa/Dto/ProductResponseDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-10/src/main/java/com/ing/hubs/course10/jpa/Dto/response/ProductResponseDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-10/src/main/java/com/ing/hubs/course10/jpa/Dto/UserCreationDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-10/src/main/java/com/ing/hubs/course10/jpa/Dto/request/UserCreationDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-10/src/main/java/com/ing/hubs/course10/jpa/Dto/UserDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-10/src/main/java/com/ing/hubs/course10/jpa/Dto/response/UserDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-10/src/main/java/com/ing/hubs/course10/jpa/configuration/RestExceptionHandeler.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-10/src/main/java/com/ing/hubs/course10/jpa/configuration/RestExceptionHandeler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-10/src/main/java/com/ing/hubs/course10/jpa/exception/InsufficientProductStockception.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-10/src/main/java/com/ing/hubs/course10/jpa/exception/InsufficientProductStockException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-10/src/main/java/com/ing/hubs/course10/jpa/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-10/src/main/java/com/ing/hubs/course10/jpa/repository/UserRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-10/src/main/java/com/ing/hubs/course10/jpa/resource/OrderResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-10/src/main/java/com/ing/hubs/course10/jpa/resource/OrderResource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-10/src/main/java/com/ing/hubs/course10/jpa/resource/ProductResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-10/src/main/java/com/ing/hubs/course10/jpa/resource/ProductResource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-10/src/main/java/com/ing/hubs/course10/jpa/resource/UserResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-10/src/main/java/com/ing/hubs/course10/jpa/resource/UserResource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-10/src/main/java/com/ing/hubs/course10/jpa/service/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-10/src/main/java/com/ing/hubs/course10/jpa/service/OrderService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-10/src/main/java/com/ing/hubs/course10/jpa/service/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-10/src/main/java/com/ing/hubs/course10/jpa/service/ProductService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-10/src/main/java/com/ing/hubs/course10/jpa/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-10/src/main/java/com/ing/hubs/course10/jpa/service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-10/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-10/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-2/src/main/java/com/ing/hubs/ActionType.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-2/src/main/java/com/ing/hubs/ATM.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-2/src/main/java/com/ing/hubs/Actions.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-2/src/main/java/com/ing/hubs/Balance.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-2/src/main/java/com/ing/hubs/CashDispenser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-2/src/main/java/com/ing/hubs/DataBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-2/src/main/java/com/ing/hubs/Database.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-2/src/main/java/com/ing/hubs/Deposit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-2/src/main/java/com/ing/hubs/LoginUser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-2/src/main/java/com/ing/hubs/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-2/src/main/java/com/ing/hubs/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-2/src/main/java/com/ing/hubs/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-2/src/main/java/com/ing/hubs/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-2/src/main/java/com/ing/hubs/Withdrawal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-10/src/main/java/com/ing/hubs/course10/jpa/repository/OrderRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-10/src/main/java/com/ing/hubs/course10/jpa/repository/OrderRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-10/src/main/java/com/ing/hubs/course10/jpa/repository/SellerRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-10/src/main/java/com/ing/hubs/course10/jpa/repository/SellerRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -95,6 +73,12 @@
     "Maven.homework [clean,install].executor": "Run",
     "Maven.my-work-10 [clean,install].executor": "Run",
     "Maven.my-work-10 [clean].executor": "Run",
+    "Maven.my-work-15 [clean,install].executor": "Run",
+    "Maven.my-work-15 [clean,package,install].executor": "Run",
+    "Maven.my-work-15 [clean,package].executor": "Run",
+    "Maven.my-work-15.1 [clean,package,install].executor": "Run",
+    "Maven.my-work-15.1 [clean].executor": "Run",
+    "Maven.my-work-15.1 [package].executor": "Run",
     "RequestMappingsPanelOrder0": "0",
     "RequestMappingsPanelOrder1": "1",
     "RequestMappingsPanelWidth0": "75",
@@ -107,7 +91,7 @@
     "git-widget-placeholder": "Stefania-Moraru",
     "jdk.selected.JAVA_MODULE": "jbr-17",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Stefania Moraru/Desktop/ing devschool/devschool-java-league-2.1/my-work/my-work-2/src/main/resources",
+    "last_opened_file_path": "C:/Users/Stefania Moraru/Desktop/ing devschool/devschool-java-league-2.1/my-work/my-work-15.1/alertmanager.yml",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -134,18 +118,18 @@
       <recent name="com.ing.hubs.course10.jpa.service" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Stefania Moraru\Desktop\ing devschool\devschool-java-league-2.1\my-work\my-work-2\src\main\resources" />
-      <recent name="C:\Users\Stefania Moraru\Desktop\ing devschool\devschool-java-league-2.1\my-work\my-work-10\src\main\java\com\ing\hubs\course10\jpa\repository" />
-      <recent name="C:\Users\Stefania Moraru\Desktop\ing devschool\devschool-java-league-2.1\my-work\my-work-10\src\main\java\com\ing\hubs\course10\jpa" />
-      <recent name="C:\Users\Stefania Moraru\Desktop\ing devschool\devschool-java-league-2.1\my-work\my-work-10" />
-      <recent name="C:\Users\Stefania Moraru\Desktop\ing devschool\devschool-java-league-2.1\my-work\my-work-7-springboot\src\main\java\com\ing\hubs\atm\homework" />
+      <recent name="C:\Users\Stefania Moraru\Desktop\ing devschool\devschool-java-league-2.1\my-work\my-work-15.1\alertmanager.yml" />
+      <recent name="C:\Users\Stefania Moraru\Desktop\ing devschool\devschool-java-league-2.1\my-work\my-work-15.1\src\main\resources" />
+      <recent name="C:\Users\Stefania Moraru\Desktop\ing devschool\devschool-java-league-2.1\my-work\my-work-15.1" />
+      <recent name="C:\Users\Stefania Moraru\Desktop\ing devschool\devschool-java-league-2.1\my-work\my-work-15.1\src\main" />
+      <recent name="C:\Users\Stefania Moraru\Desktop\ing devschool\devschool-java-league-2.1\my-work\my-work-15\src\main\java\com\ing" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Stefania Moraru\Desktop\ing devschool\devschool-java-league-2.1\my-work\my-work-15\src\main\resources" />
       <recent name="C:\Users\Stefania Moraru\Desktop\ing devschool\devschool-java-league-2.1\my-work\my-work-7-springboot\src\main\java\com\ing\hubs" />
       <recent name="C:\Users\Stefania Moraru\Desktop\ing devschool\devschool-java-league-2.1\my-work\my-work-3\src\main\java" />
       <recent name="C:\Users\Stefania Moraru\Desktop\ing devschool\devschool-java-league-2.1\my-work\my-work-3\src\main" />
       <recent name="C:\Users\Stefania Moraru\Desktop\ing devschool\devschool-java-league-2.1\my-work\my-work-3\src" />
-      <recent name="C:\Users\Stefania Moraru\Desktop\ing devschool\devschool-java-league-2.1\my-work\my-work-4\src\main\resources" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.ing.hubs.configuration" />
@@ -153,7 +137,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Spring Boot.Main">
     <configuration name="EmployeeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="my-work-5" />
       <extension name="coverage">
@@ -214,6 +198,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="course15" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ing.hubs.Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="my-work-15.1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ing.hubs.Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="my-work-10" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.ing.hubs.course10.jpa.Main" />
@@ -229,8 +227,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.Main (1)" />
         <item itemvalue="Spring Boot.Main" />
+        <item itemvalue="Spring Boot.Main (1)" />
         <item itemvalue="JUnit.EmployeeTest" />
         <item itemvalue="JUnit.EmployeeTest.testIncreaseSalary" />
         <item itemvalue="JUnit.EmployeeTest.test9" />
@@ -274,7 +272,8 @@
       <workItem from="1716473569606" duration="7739000" />
       <workItem from="1716625936537" duration="5447000" />
       <workItem from="1716633153263" duration="33450000" />
-      <workItem from="1716829622565" duration="9534000" />
+      <workItem from="1716829622565" duration="9633000" />
+      <workItem from="1716905444354" duration="9666000" />
     </task>
     <task id="LOCAL-00001" summary="Added my-work-1">
       <option name="closed" value="true" />
@@ -516,7 +515,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716722993213</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Added  my-work-10 - up to date">
+      <option name="closed" value="true" />
+      <created>1716888741163</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1716888741163</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -557,7 +564,8 @@
     <MESSAGE value="Added finalProject-added endpoints" />
     <MESSAGE value="Added finalProject-refactor dto" />
     <MESSAGE value="Added finalProject-refactor dto2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added finalProject-refactor dto2" />
+    <MESSAGE value="Added  my-work-10 - up to date" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added  my-work-10 - up to date" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
