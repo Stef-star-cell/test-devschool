@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ce4aa2b-70a7-4afe-b43f-07debe3b509f" name="Changes" comment="Added  endpoints for get enrollments">
+    <list default="true" id="1ce4aa2b-70a7-4afe-b43f-07debe3b509f" name="Changes" comment="Added  postman collection">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/dto/request/SubjectCreateDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/dto/request/SubjectCreateDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/dto/response/StudentResponseDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/dto/response/StudentResponseDto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/security/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/security/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +31,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$/devschool-java-league-2.1" value="main" />
+        <entry key="$PROJECT_DIR$/devschool-java-league-2.1" value="Stefania-Alex" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/devschool-java-league-2.1" />
@@ -80,7 +80,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;Spring Boot.Main (1).executor&quot;: &quot;Run&quot;,
     &quot;Spring Boot.Main.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Stefania-Alex&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;bro-code&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;jbr-17&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Stefania Moraru/Desktop/ing devschool/devschool-java-league-2.1/my-work/my-work-15.1/alertmanager.yml&quot;,
@@ -129,7 +129,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.com.ing.hubs in homework">
+  <component name="RunManager">
     <configuration name="EmployeeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="my-work-5" />
       <extension name="coverage">
@@ -272,7 +272,8 @@
       <workItem from="1717076997448" duration="3934000" />
       <workItem from="1717081551288" duration="1967000" />
       <workItem from="1717083641258" duration="3545000" />
-      <workItem from="1717088134920" duration="687000" />
+      <workItem from="1717088134920" duration="1187000" />
+      <workItem from="1717105793171" duration="1822000" />
     </task>
     <task id="LOCAL-00001" summary="Added my-work-1">
       <option name="closed" value="true" />
@@ -538,7 +539,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717062059287</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Added  postman collection">
+      <option name="closed" value="true" />
+      <created>1717088941640</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1717088941640</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -556,7 +565,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added my-work-2" />
     <MESSAGE value="Added my-work-3" />
     <MESSAGE value="Added my-work-4 - testing" />
     <MESSAGE value="Added my-work-3 - clean code and my-work-4 - testing" />
@@ -581,7 +589,8 @@
     <MESSAGE value="Added  my-work-10 - up to date" />
     <MESSAGE value="Added  my-work-15" />
     <MESSAGE value="Added  endpoints for get enrollments" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added  endpoints for get enrollments" />
+    <MESSAGE value="Added  postman collection" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added  postman collection" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
