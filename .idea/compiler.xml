@@ -10,19 +10,16 @@
         <module name="course-7-spring" />
         <module name="my-work-10" />
         <module name="homework" />
-        <module name="my-work-15.1" />
         <module name="course-5" />
         <module name="course-4" />
         <module name="course-3" />
         <module name="course-2" />
         <module name="course-8-jpa" />
         <module name="course-6" />
-        <module name="course-10" />
         <module name="my-work-8" />
         <module name="courses-7-springboot" />
         <module name="course-1" />
         <module name="my-work-3" />
-        <module name="course15" />
         <module name="my-work-4" />
         <module name="my-work-5" />
         <module name="course-8-jdbc" />
@@ -34,7 +31,10 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="course-10" target="17" />
+      <module name="course15" target="17" />
       <module name="my-work-15" target="17" />
+      <module name="my-work-15.1" target="17" />
       <module name="my-work-7-spring (1)" target="17" />
       <module name="my-work-7-spring (2)" target="17" />
     </bytecodeTargetLevel>
@@ -45,7 +45,7 @@
       <module name="course-8-jdbc" options="-parameters" />
       <module name="course-8-jpa" options="-parameters" />
       <module name="course15" options="-parameters" />
-      <module name="homework" options="" />
+      <module name="homework" options="-parameters" />
       <module name="my-work-10" options="-parameters" />
       <module name="my-work-15.1" options="-parameters" />
       <module name="my-work-8" options="-parameters" />

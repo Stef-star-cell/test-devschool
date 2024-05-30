@@ -4,31 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ce4aa2b-70a7-4afe-b43f-07debe3b509f" name="Changes" comment="Added  my-work-10 - up to date">
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-15.1/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-15.1/alert.rules.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-15.1/alertmanager.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-15.1/docker-compose.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-15.1/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-15.1/prometheus.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-15.1/src/main/java/com/ing/hubs/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-15.1/src/main/java/com/ing/hubs/entity/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-15.1/src/main/java/com/ing/hubs/repository/BookRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-15.1/src/main/java/com/ing/hubs/resource/BookResource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-15.1/src/main/java/com/ing/hubs/service/BookService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-15.1/src/main/resources/application.properties" afterDir="false" />
+    <list default="true" id="1ce4aa2b-70a7-4afe-b43f-07debe3b509f" name="Changes" comment="Added  my-work-15">
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/exception/user/InvalidNameFormatException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/exception/user/InvalidSubjectException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/exception/user/PhoneNumberAlreadyExistsException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-10/src/main/java/com/ing/hubs/course10/jpa/repository/OrderRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-10/src/main/java/com/ing/hubs/course10/jpa/repository/OrderRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-10/src/main/java/com/ing/hubs/course10/jpa/repository/SellerRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/my-work-10/src/main/java/com/ing/hubs/course10/jpa/repository/SellerRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/my-work/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/dto/request/SubjectCreateDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/dto/request/SubjectCreateDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/resource/CatalogueResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/resource/CatalogueResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/resource/EnrollmentResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/resource/EnrollmentResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/security/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/security/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/service/EnrollmentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/service/EnrollmentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/service/SubjectService.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/service/SubjectService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/service/UserManagementService.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/main/java/com/ing/hubs/service/UserManagementService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/test/java/com/ing/hubs/UserManagementServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/devschool-java-league-2.1/homework/src/test/java/com/ing/hubs/UserManagementServiceTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OPEN_IN_BROWSER" value="true" />
+    <option name="OUTPUT_DIRECTORY" value="C:\Users\Stefania Moraru\Desktop\ing devschool\htmlReport" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -70,6 +68,9 @@
   "keyToString": {
     "Application.Main.executor": "Run",
     "JUnit.EmployeeTest.executor": "Run",
+    "JUnit.UserManagementServiceTest.executor": "Run",
+    "JUnit.UserManagementServiceTest.testGenerateUser_PhoneNumberAlreadyExists.executor": "Run",
+    "JUnit.com.ing.hubs in homework.executor": "Run",
     "Maven.homework [clean,install].executor": "Run",
     "Maven.my-work-10 [clean,install].executor": "Run",
     "Maven.my-work-10 [clean].executor": "Run",
@@ -88,7 +89,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Spring Boot.Main (1).executor": "Run",
     "Spring Boot.Main.executor": "Run",
-    "git-widget-placeholder": "Stefania-Moraru",
+    "git-widget-placeholder": "Stefania-Alex",
     "jdk.selected.JAVA_MODULE": "jbr-17",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Stefania Moraru/Desktop/ing devschool/devschool-java-league-2.1/my-work/my-work-15.1/alertmanager.yml",
@@ -137,7 +138,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.Main">
+  <component name="RunManager">
     <configuration name="EmployeeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="my-work-5" />
       <extension name="coverage">
@@ -153,34 +154,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmployeeTest.test9" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="my-work-5" />
+    <configuration name="UserManagementServiceTest.testGenerateUser_PhoneNumberAlreadyExists" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="course5.*" />
+          <option name="PATTERN" value="com.ing.hubs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="course5" />
-      <option name="MAIN_CLASS_NAME" value="course5.EmployeeTest" />
-      <option name="METHOD_NAME" value="test9" />
+      <option name="PACKAGE_NAME" value="com.ing.hubs" />
+      <option name="MAIN_CLASS_NAME" value="com.ing.hubs.UserManagementServiceTest" />
+      <option name="METHOD_NAME" value="testGenerateUser_PhoneNumberAlreadyExists" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmployeeTest.testIncreaseSalary" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="my-work-5" />
+    <configuration name="com.ing.hubs in homework" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="course5.*" />
+          <option name="PATTERN" value="com.ing.hubs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="course5" />
-      <option name="MAIN_CLASS_NAME" value="course5.EmployeeTest" />
-      <option name="METHOD_NAME" value="testIncreaseSalary" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="com.ing.hubs" />
+      <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -227,11 +226,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.com.ing.hubs in homework" />
+        <item itemvalue="JUnit.UserManagementServiceTest.testGenerateUser_PhoneNumberAlreadyExists" />
         <item itemvalue="Spring Boot.Main" />
         <item itemvalue="Spring Boot.Main (1)" />
         <item itemvalue="JUnit.EmployeeTest" />
-        <item itemvalue="JUnit.EmployeeTest.testIncreaseSalary" />
-        <item itemvalue="JUnit.EmployeeTest.test9" />
       </list>
     </recent_temporary>
   </component>
@@ -273,7 +272,9 @@
       <workItem from="1716625936537" duration="5447000" />
       <workItem from="1716633153263" duration="33450000" />
       <workItem from="1716829622565" duration="9633000" />
-      <workItem from="1716905444354" duration="9666000" />
+      <workItem from="1716905444354" duration="10210000" />
+      <workItem from="1716987802086" duration="15935000" />
+      <workItem from="1717053305555" duration="8225000" />
     </task>
     <task id="LOCAL-00001" summary="Added my-work-1">
       <option name="closed" value="true" />
@@ -523,7 +524,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716888741163</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Added  my-work-15">
+      <option name="closed" value="true" />
+      <created>1716915503894</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1716915503895</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -565,36 +574,40 @@
     <MESSAGE value="Added finalProject-refactor dto" />
     <MESSAGE value="Added finalProject-refactor dto2" />
     <MESSAGE value="Added  my-work-10 - up to date" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added  my-work-10 - up to date" />
+    <MESSAGE value="Added  my-work-15" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added  my-work-15" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
     <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/ing_devschool$MainTest.ic" NAME="MainTest Coverage Results" MODIFIED="1713790970607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>example.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/ing_devschool$TestCashDispenser_testLoadDatabase.ic" NAME="TestCashDispenser.testLoadDatabase Coverage Results" MODIFIED="1713819748317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/ing_devschool$TestWithdraw.ic" NAME="TestWithdraw Coverage Results" MODIFIED="1713825753661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/ing_devschool$TestClass_Ceva.ic" NAME="TestClass.Ceva Coverage Results" MODIFIED="1713455049566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/ing_devschool$TestClassBank_testAddAccount.ic" NAME="TestClassBank.testAddAccount Coverage Results" MODIFIED="1713457987856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/ing_devschool$TestClassAccount_testCreationAccount.ic" NAME="TestClassAccount.testCreationAccount Coverage Results" MODIFIED="1713791075467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/ing_devschool$TestATM.ic" NAME="TestATM Coverage Results" MODIFIED="1713847682328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/ing_devschool$TestClass.ic" NAME="TestClass Coverage Results" MODIFIED="1713457483123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/ing_devschool$TestClassBank_testTransfer.ic" NAME="TestClassBank.testTransfer Coverage Results" MODIFIED="1713458372870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/ing_devschool$TestClassBank.ic" NAME="TestClassBank Coverage Results" MODIFIED="1713458669284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/ing_devschool$TestClass_Ceva.ic" NAME="TestClass.Ceva Coverage Results" MODIFIED="1713455049566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/ing_devschool$com_ing_hubs_in_homework.ic" NAME="com.ing.hubs in homework Coverage Results" MODIFIED="1717059556298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>com.ing.hubs.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/ing_devschool$TestCashDispenser_testDispenseFunds.ic" NAME="TestCashDispenser.testDispenseFunds Coverage Results" MODIFIED="1713817674633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/ing_devschool$TestAccount.ic" NAME="TestAccount Coverage Results" MODIFIED="1713821097506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/ing_devschool$TestClass_testCreationAccount.ic" NAME="TestClass.testCreationAccount Coverage Results" MODIFIED="1713457627202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/ing_devschool$TestClassAccount.ic" NAME="TestClassAccount Coverage Results" MODIFIED="1713791213464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/ing_devschool$TestKeypad.ic" NAME="TestKeypad Coverage Results" MODIFIED="1713825730710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/ing_devschool$TestCashDispenser_testLoadDatabase.ic" NAME="TestCashDispenser.testLoadDatabase Coverage Results" MODIFIED="1713819748317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/ing_devschool$MainTest_testInvalidSalaryIncrease.ic" NAME="MainTest.testInvalidSalaryIncrease Coverage Results" MODIFIED="1713790951609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>example.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/ing_devschool$TestClassBank_testAddAccount.ic" NAME="TestClassBank.testAddAccount Coverage Results" MODIFIED="1713457987856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/ing_devschool$TestCashDispenser.ic" NAME="TestCashDispenser Coverage Results" MODIFIED="1713817641659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/ing_devschool$EmployeeTest.ic" NAME="EmployeeTest Coverage Results" MODIFIED="1714401937687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>course5.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/ing_devschool$TestAccount.ic" NAME="TestAccount Coverage Results" MODIFIED="1713821097506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/ing_devschool$TestClassAccount_testCreationAccount.ic" NAME="TestClassAccount.testCreationAccount Coverage Results" MODIFIED="1713791075467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/ing_devschool$TestClass_testCreationAccount.ic" NAME="TestClass.testCreationAccount Coverage Results" MODIFIED="1713457627202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/ing_devschool$TestClass.ic" NAME="TestClass Coverage Results" MODIFIED="1713457483123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/ing_devschool$TestClassBank_testTransfer.ic" NAME="TestClassBank.testTransfer Coverage Results" MODIFIED="1713458372870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/ing_devschool$TestClassAccount.ic" NAME="TestClassAccount Coverage Results" MODIFIED="1713791213464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/ing_devschool$TestCashDispenser_testDispenseFunds.ic" NAME="TestCashDispenser.testDispenseFunds Coverage Results" MODIFIED="1713817674633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/ing_devschool$TestClassBank.ic" NAME="TestClassBank Coverage Results" MODIFIED="1713458669284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/ing_devschool$TestKeypad.ic" NAME="TestKeypad Coverage Results" MODIFIED="1713825730710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/ing_devschool$MainTest.ic" NAME="MainTest Coverage Results" MODIFIED="1713790970607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>example.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/ing_devschool$TestWithdraw.ic" NAME="TestWithdraw Coverage Results" MODIFIED="1713825753661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
